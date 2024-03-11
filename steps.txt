@@ -1,4 +1,6 @@
+git init
 git status
 git add .
 git commit -a -m "msg"
+git remote add origin https://github.com/SwatiRawat007/projects.firststep.git
 git push
